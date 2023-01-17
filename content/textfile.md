@@ -7,7 +7,7 @@ link-citations: true
 urlcolor: "blue"
 ---
 
-Part One "introduction part"
+Part One "Introduction and Review"
 ======
 
 ## 1. Introduction
@@ -110,6 +110,8 @@ Selection occurred during the Swedish breeding program.
 ## 6. Discussion
 ###  a discussion of the methods and tools (implications and problems)
 
+make a reference: [@saleem:2021aa] Figure out how to do this later. 
+
 
 
 
@@ -190,7 +192,9 @@ Part Two "the scientific manuscript"
 
 
 
-help
+
+
+help:
 
 # Image
 ![Description \label{fig:1}](images/800x400.png)

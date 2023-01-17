@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 CONTENTDIR="content"
 BUILDDIR="build"
 FILENAME="index"
