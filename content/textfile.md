@@ -12,19 +12,31 @@ Part One "Introduction and Review"
 
 ## 1. Introduction
 ### Glycine max set the scene. a very short intro to topic
+half page
+Soy is a very successful crop grown all over the world. so much is produced. The demand only increses. 
+It originated in china at this and that latatude and is a short day plant. 
+It is successfully grown in north and south america for feed and is imported to europe in great amounts (ref) for feeding cattle and pigs. 
+Soy is the perfect feed crop because of its protien and oil content. More than three quarters of that produced is fed to animals. It is also gaining populatrty as a means to enough protien in a vegetarien diet (20% of produced ampunt). But there are some negative tendencies when it come to importing so much. 
+its not sustainable to move that much goods across the world. 
+Alot of the soy that is bought and imported from southamerica is cultivated with the reputation of being linked to deforistation (1/5th of deforistation is due to cropland expansion by crops like soy and oil palm (ref)), unsustainable in all kinds of other ways? 
+Thirdly there is a more recent interest in sourcing societys fundamentals closer to home. 
+So there is great interest in the breeding of higher protien rich crops here in europe, as can be seen with the reemergent interest in other nitrogen fixing crops such as Faba Bean (Vicia faba) or other legumes. 
 
-##  2. Purpose and relevance
+
 ###  The purpose and relevance of a future with soy in the Nordics
-I guess this research is two main things things.
-1. the swedish accessions. what are they, where did they come from and what can i find out about them.
+There is the idea that it could be cleaver for socioeconomic and environmental purposes to be more self sufficient when it comes to plant protiens and fats in europe. We import soy and other crops mainly as feed to our animals that then go on to be a source of meat protien for human consumption. 
+Our meat consumption is not sustainable. we should be able to source (grow) our protien for meat more locally. We import fo much soy into europe. 
+Also Soy can be a great source of vegetarian soybean for direct or processed human consumption. 
+Soy is also a vital ingredient (sot lycitine) in many processed foods. (numbers, ref)
+The unstability of our energy resources since war in europe also has rekindled this idea of being self sustainable in europe as an important
 
-2. Then there is the relevance of the swedish accessions in relation to the germpasm as a whole, and in relation to the core collection.
 
-The purpose of this investigation is to start the investigation of the swedish soybean accessions. Id like to answer some initial questions to have an overview of the genetic data before us. what are these swedish accessions
 
 #### Purpose: the idea of breeding and then growing soy in the Nordics
+
 #### Relevance: why its a good idea  	
 #### Overview: the framework of the project. what I’m going to research.
+
 Id like to start by introducing the data
 and the historical metadata that we uncovered.
 The preparation of the data done by Torben.
@@ -81,33 +93,24 @@ family, flowering, cold tolerance, biogeography, protien and fat content.
 #### Agronomic
 protein and fat content. The amounts imported to europe / northern europe. 	
 #### Domestication history
+just really short what we know
+also breeding history
 #### Population genetics
+
+
+Population structure:
+inferring population history 
+parameters relating to changes in populations size
+Fst 
 #### what’s known of soy traits,
 #### QTL Genes pathways and physiology
 Add molecular genetics studies on flowering, cold tolerance, seed coat, etc.
+#### Signatures of selection
+There are several ways of detecting signatures of selection. 
+	
+	
 
-### Problem formulation and hypotheses
-#### Overall purpose of the research - explorative -for further use
-#### Hypotheses
-
-**Hypothesis 1. Swedish accession genetic origin**
-The 157 accessions from the NordGen gene bank (Swedish breeding program accessions, SBPA) were part of the Swedish breeding program (SBP) of the 1940s-1980s and the 12 accessions found are founders of this breeding program.
-
-**Hypothesis 2. The bottleneck will be evaluated.**
-The founder population to the breeding population & the breeding program created a bottleneck, the effects of this is drift and will be detected as a reduction of Ne.
-
-**Hypothesis 3. Selection signatures**
-Selection occurred during the Swedish breeding program.
-
-#### Postulates				
-
-## 5. Theory and Method review
-### use of theory(s), empiricism and method
-#### what I think happened (using Toulmin’s model of argument?) using:
-####Theory behind my postulates using empirical research
-####the methods I will use to analyse the data		
-
-## 6. Discussion
+## 7. Discussion
 ###  a discussion of the methods and tools (implications and problems)
 
 make a reference: [@saleem:2021aa] Figure out how to do this later. 
@@ -127,6 +130,15 @@ make a reference: [@saleem:2021aa] Figure out how to do this later.
 
 
 
+
+I guess this purpose of the research is two main things things.
+1. the swedish accessions. what are they, where did they come from and what can i find out about them.
+
+2. Then there is the genetic relevance of the swedish accessions in relation to the germpasm as a whole, and in relation to the core collection. 
+
+To later be able to answer the question. Are these swedish accessions a starting point for breeding programs for northern european soybean breeding programs. 
+
+The purpose of this investigation is to start the investigation of the swedish soybean accessions. Id like to answer some initial questions to have an overview of the genetic data before us. what are these swedish accessions
 
 
 
