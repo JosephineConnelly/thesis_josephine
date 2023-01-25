@@ -10,9 +10,13 @@ urlcolor: "blue"
 Part One "Introduction and Review"
 ======
 
-## 1. Introduction
-### Glycine max set the scene. a very short intro to topic
-half page
+## 1. Introduction (1)
+Presents the topic/problem
+Presents, motivates and delimits the professional topic/problem precisely and clearly using relevant professional terminology and with reference to existing literature.
+Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose. [@saleem:2021aa]
+
+*half page*
+
 Soy is a very successful crop grown all over the world. so much is produced. The demand only increses. 
 It originated in china at this and that latatude and is a short day plant. 
 It is successfully grown in north and south america for feed and is imported to europe in great amounts (ref) for feeding cattle and pigs. 
@@ -22,20 +26,94 @@ Alot of the soy that is bought and imported from southamerica is cultivated with
 Thirdly there is a more recent interest in sourcing societys fundamentals closer to home. 
 So there is great interest in the breeding of higher protien rich crops here in europe, as can be seen with the reemergent interest in other nitrogen fixing crops such as Faba Bean (Vicia faba) or other legumes. 
 
+## Main text: 
+Description, explanation and discussion of results from the literature that are important in relation to the task's problem. It is typically divided into several paragraphs, where each paragraph deals with one sub-topic or one point of view, but where the connection is clear. The text must constitute an overall argument or lead to an overarching point that relates to the formulation of the problem.
+Glycine max could be a future crop i europe. 
+Itroduce Glycine max from the several perspectives, the botanic, agronomic and domistancation hitory and recent history in the north. 
+The idea is that it could be a good idea to research the possibility of developing elite cultivars that would grow well in Northern Europe. The idea would be to look more at accessions that we already know. 
+Population genetics can show relations and genetic distances.
+The traits we know that have an importance in northern europe.
+detection of selection signatures
 
-###  The purpose and relevance of a future with soy in the Nordics
+
+*10 pages total*
+
+#### Botanic	(2)
+*one page*	
+family, flowering, cold tolerance, biogeography, protien and fat content of seeds. seed colour morphology
+#### Agronomic (3)
+*half page*
+protein and fat content. The amounts imported to europe / northern europe. who eats it and what impact it has on ex. deforestation. 	
+#### Domestication history (4)
+history and breeding hitory
+history of soy in the nordics (sweden)
+*1 page*
+#### Population genetics (5)
+*5 pages*
+
+Population structure:
+inferring population history and demography
+parameters relating to changes in populations size
+Fst 
+Signatures of selection
+*1 page*
+#### what’s known of soy traits, (6)
+*3 pages*
+#### QTL Genes pathways and physiology (7)
+Add molecular genetics studies on flowering, cold tolerance, seed coat, etc.
+
+*2 pages*
+####  The purpose and relevance of a future with soy in the Nordics (9)
+*Half to whole page*
+
 There is the idea that it could be cleaver for socioeconomic and environmental purposes to be more self sufficient when it comes to plant protiens and fats in europe. We import soy and other crops mainly as feed to our animals that then go on to be a source of meat protien for human consumption. 
 Our meat consumption is not sustainable. we should be able to source (grow) our protien for meat more locally. We import fo much soy into europe. 
 Also Soy can be a great source of vegetarian soybean for direct or processed human consumption. 
 Soy is also a vital ingredient (sot lycitine) in many processed foods. (numbers, ref)
 The unstability of our energy resources since war in europe also has rekindled this idea of being self sustainable in europe as an important
 
+## Conclusion and perspective:  (10)
+The points from each sub-topic are gathered into an overarching argument, an assessment or a conclusion that answers the problem set out in the introduction. Here, the author may identify shortcomings in the literature/science or provide perspective in another way.
+*2 pages*
+
+## Bibliography: 
+Indicates the literature referred to in the text.
+A prerequisite for being able to write a good literature review is a thorough orientation in the literature, so that you can define a relevant and important problem, write a good problem formulation and then select the scientific studies that are most important for the subject.
 
 
-#### Purpose: the idea of breeding and then growing soy in the Nordics
 
-#### Relevance: why its a good idea  	
-#### Overview: the framework of the project. what I’m going to research.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 2
+======
+
+introduction part 2
 
 Id like to start by introducing the data
 and the historical metadata that we uncovered.
@@ -81,52 +159,6 @@ Change in allele frequency FST. (Selection/Drift/geneflow)
 - choose and introduce chosen parts of the genome.
 - Allele frequence differentation (like Fst) at genes
 - Haplotype analysis of genes
-
-
-## 3. Structure / reading guide
-### Structure of the paper explained or laid out for the reader
-
-## 4. Topic and Problem
-### Glycine max an introduction
-#### Botanic		
-family, flowering, cold tolerance, biogeography, protien and fat content.
-#### Agronomic
-protein and fat content. The amounts imported to europe / northern europe. 	
-#### Domestication history
-just really short what we know
-also breeding history
-#### Population genetics
-
-
-Population structure:
-inferring population history 
-parameters relating to changes in populations size
-Fst 
-#### what’s known of soy traits,
-#### QTL Genes pathways and physiology
-Add molecular genetics studies on flowering, cold tolerance, seed coat, etc.
-#### Signatures of selection
-There are several ways of detecting signatures of selection. 
-	
-	
-
-## 7. Discussion
-###  a discussion of the methods and tools (implications and problems)
-
-make a reference: [@saleem:2021aa] Figure out how to do this later. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -214,7 +246,7 @@ help:
 Seen in figure \ref{fig:1}, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [@online]
 
 # Equation
-Cauchy's integral formula [@dixon1971brief]
+Cauchy's integral formula [@chan:2012aa]
 
 $$
 f(a)=\frac{1}{2πi}∮_γ\frac{f(z)}{z-a}\,dz.
@@ -248,3 +280,4 @@ Seen in table \ref{tab:1}, Lorem ipsum dolor sit amet, consectetur adipisicing e
 
 
 # References
+

@@ -1,7 +1,7 @@
 #!/bin/zsh
 CONTENTDIR="content"
 BUILDDIR="build"
-FILENAME="index"
+FILENAME="textfile"
 ASSETSDIR="assets"
 
 download_csl() {
@@ -20,7 +20,7 @@ pdf_print() {
         --from="markdown+tex_math_single_backslash+tex_math_dollars+raw_tex" \
         --to="latex" \
         --output="${BUILDDIR}/output_print.pdf" \
-        --pdf-engine="xelatex" \
+        --pdf-engine="pdflatex" \
         --include-in-header="layouts/print.tex"
 }
 

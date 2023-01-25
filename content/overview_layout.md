@@ -13,22 +13,22 @@ part two 30 p
 Part One "Introduction and Review" Title
 ======
 
-## 1. Introduction 
+## 1. Introduction (1)
 Presents the topic/problem
 Presents, motivates and delimits the professional topic/problem precisely and clearly using relevant professional terminology and with reference to existing literature.
 Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose.
 
 ## Main text: 
 Description, explanation and discussion of results from the literature that are important in relation to the task's problem. It is typically divided into several paragraphs, where each paragraph deals with one sub-topic or one point of view, but where the connection is clear. The text must constitute an overall argument or lead to an overarching point that relates to the formulation of the problem.
-#### Botanic	
+#### Botanic	(2)
 *one page*	
 family, flowering, cold tolerance, biogeography, protien and fat content.
-#### Agronomic
+#### Agronomic (3)
 *half page*
 protein and fat content. The amounts imported to europe / northern europe. 	
-#### Domestication history
+#### Domestication history (4)
 *half page*
-#### Population genetics
+#### Population genetics (5)
 *5 pages*
 
 Population structure:
@@ -36,22 +36,37 @@ inferring population history and demography
 parameters relating to changes in populations size
 Fst 
 
-#### Signatures of selection
+#### Signatures of selection (6)
 *1 page*
-#### what’s known of soy traits,
+#### what’s known of soy traits, (7)
 *3 pages*
-#### QTL Genes pathways and physiology
+#### QTL Genes pathways and physiology (8)
 *2 pages*
 Add molecular genetics studies on flowering, cold tolerance, seed coat, etc.
-###  The purpose and relevance of a future with soy in the Nordics
+####  The purpose and relevance of a future with soy in the Nordics (9)
 *Half to whole page*
 
-## Conclusion and perspective: 
+## Conclusion and perspective:  (10)
 The points from each sub-topic are gathered into an overarching argument, an assessment or a conclusion that answers the problem set out in the introduction. Here, the author may identify shortcomings in the literature/science or provide perspective in another way.
 
 ## Bibliography: 
 Indicates the literature referred to in the text.
 A prerequisite for being able to write a good literature review is a thorough orientation in the literature, so that you can define a relevant and important problem, write a good problem formulation and then select the scientific studies that are most important for the subject.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Part Two "the scientific manuscript"
@@ -60,13 +75,13 @@ Part Two "the scientific manuscript"
 ## 1. abstract
 
 ## 2. introduction
-### Introduction Implications and potential problems are thoroughly discussed.
+Introduction Implications and potential problems are thoroughly discussed.
 
 ## 3. results
-### Results/Analysis Central findings/results are clearly described and presented correctly, legibly and without defects or errors.
+Results/Analysis Central findings/results are clearly described and presented correctly, legibly and without defects or errors.
 
 ## 4. discussion
-### Discussion Conclusions are drawn, so they are logically connected to the data. Conclusions relate to the problem formulation/hypothesis and Method The procedure is carefully explained and the choice of procedure is justified.
+Discussion Conclusions are drawn, so they are logically connected to the data. Conclusions relate to the problem formulation/hypothesis and Method The procedure is carefully explained and the choice of procedure is justified.
 
 ## 5. methods
 The method is well chosen and justified. Everything is carefully executed and explained.
