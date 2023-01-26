@@ -13,7 +13,7 @@ Part One "Introduction and Review"
 ## 1. Introduction (1)
 Presents the topic/problem
 Presents, motivates and delimits the professional topic/problem precisely and clearly using relevant professional terminology and with reference to existing literature.
-Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose. [@saleem:2021aa]
+Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose. [@holmberg:1973aa]
 
 *half page*
 
@@ -241,7 +241,7 @@ Part Two "the scientific manuscript"
 help:
 
 # Image
-![Description \label{fig:1}](images/800x400.png)
+![Description \label{fig:1}](images/20220724_170751.jpg)
 
 Seen in figure \ref{fig:1}, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [@online]
 

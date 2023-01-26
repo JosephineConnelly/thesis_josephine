@@ -20,7 +20,7 @@ pdf_print() {
         --from="markdown+tex_math_single_backslash+tex_math_dollars+raw_tex" \
         --to="latex" \
         --output="${BUILDDIR}/output_print.pdf" \
-        --pdf-engine="pdflatex" \
+        --pdf-engine="xelatex" \
         --include-in-header="layouts/print.tex"
 }
 
