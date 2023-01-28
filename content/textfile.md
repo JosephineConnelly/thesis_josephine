@@ -13,7 +13,7 @@ Part One "Introduction and Review"
 ## 1. Introduction (1)
 Presents the topic/problem
 Presents, motivates and delimits the professional topic/problem precisely and clearly using relevant professional terminology and with reference to existing literature.
-Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose. [@holmberg:1973aa]
+Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose. [@holmberg:1973]
 
 *half page*
 
