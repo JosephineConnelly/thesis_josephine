@@ -227,7 +227,7 @@ This is just some reminders or templates of how to do stuff in markdown
 
 
 ## Image
-![Description \label{fig:1}](images/20220724_170751.jpg)
+![Description \label{fig:1}](images/example.jpg)
 
 Seen in figure \ref{fig:1}, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [@online]
 
