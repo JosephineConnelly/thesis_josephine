@@ -10,45 +10,56 @@ urlcolor: "blue"
 Part One "Introduction and Review"
 ======
 
-refrence like this: [@carter04]
+reference like this: [@carter04]
 
 ## 1. Introduction
-Presents the topic/problem
-Presents, motivates and delimits the professional topic/problem precisely and clearly using relevant professional terminology and with reference to existing literature.
-Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose. [@holmberg:1973]
+*Presents the topic/problem*
+*Presents, motivates and delimits the professional topic/problem precisely and clearly using relevant professional terminology and with reference to existing literature.*
+*Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose.*
 
 *half page*
-It is the pourpose of this paper to review what 
+It is the purpose of this paper to review what is to present and motivate the future of soybean in nothern eaurope. There is reduced level og genetic variation in eleite breeding populations (ref) which means that for the case of soybean, there needs to be looked elsewhere. Research into relevant accessions have been identified to have potential for abiotic adaptation to cold tolerence [@haupt20]. 
+Recently awareness has grown around accessions in the Nordgen genebank that are the intermeredys and results from a Swedish breeding program in the 40-70s using a mixture of elite cultivars and Japanese landraces. It could be very interesting to know more about these accessions. 
 
-Soy is a very successful crop grown all over the world. * so much is produced each year. The demand only increses. To reach the GWDs they say we need to grow more soy for human protien consumption to reach the goal #2 of no hunger. 
-*Glycine max* is the domesticated species of *Glycine soya* that originated in china and was domesticated to *Glycine max* around 5-6thousand yeasr ago (ref). at this and that latatude and is a short day plant with seeds high in protien and oil (ref). 
+
+ 
+  
+
+Soy is a very successful crop grown all over the world. * so much is produced each year. The demand only increases. To reach the GWDs they say we need to grow more soy for human protein consumption to reach the goal #2 of no hunger. 
+*Glycine max* is the domesticated species of *Glycine soya* that originated in china and was domesticated to *Glycine max* around 5-6thousand years ago (ref). at this and that latitude and is a short day plant with seeds high in protein and oil (ref). 
 It is successfully grown in north and south america for feed and is imported to europe in great amounts (4/5ths?)(ref) for feeding cattle and pigs. 
-Soy is the perfect feed crop because of its protien and oil content. More than three quarters of that produced is fed to animals. It is also gaining populatrty as a means to enough protien in a vegetarien diet (20% of produced ampunt). 
-There are things to considerate when it comes to growing europes animal feed on the other side of the earth. Transport. Deforistation (1/5th of deforistation is due to cropland expansion by crops like soy and oil palm (ref)). Food security  (there is a more recent interest in sourcing societys fundamentals closer to home.) and autonomy, both in europe and where the soy is grown. The animal waste that dosent connect to the landuse in the area. too much animal waste and not enough land to put it on. that would be different if there was less import.? 
-So there is great interest in the breeding of higher protien rich crops here in europe, as can be seen with the reemergent interest in other nitrogen fixing crops such as Faba Bean (Vicia faba) or other legumes. Growing soybean in NWE North Western Europe could be another solution.
+Soy is the perfect feed crop because of its protein and oil content. More than three quarters of that produced is fed to animals. It is also gaining popularity as a means to enough protein in a vegetarian diet (20% of produced amount). 
+There are things to considerate when it comes to growing europe's animal feed on the other side of the earth. Transport. Deforestation (1/5th of deforestation is due to cropland expansion by crops like soy and oil palm (ref)). Food security  (there is a more recent interest in sourcing society's fundamentals closer to home.) and autonomy, both in europe and where the soy is grown. The animal waste that doesn't connect to the land use in the area. too much animal waste and not enough land to put it on. that would be different if there was less import.? 
+So there is great interest in the breeding of higher protein rich crops here in europe, as can be seen with the re-emergent interest in other nitrogen fixing crops such as Faba Bean (Vicia faba) or other legumes. Growing soybean in NWE North Western Europe could be another solution.
 
 ## Main text: 
 *Description, explanation and discussion of results from the literature that are important in relation to the task's problem. It is typically divided into several paragraphs, where each paragraph deals with one sub-topic or one point of view, but where the connection is clear. The text must constitute an overall argument or lead to an overarching point that relates to the formulation of the problem.*
 
 Glycine max could be a future crop i europe. 
-Itroduce Glycine max from the several perspectives, the botanic, agronomic and domistancation hitory and recent history in the north. 
+Introduce Glycine max from the several perspectives, the botanic, agronomic and domestication history and recent history in the north. 
 The idea is that it could be a good idea to research the possibility of developing elite cultivars that would grow well in Northern Europe. The idea would be to look more at accessions that we already know of and compare. 
 Population genetics can show relations and genetic distances.
 The traits we know that have an importance in northern europe.
 Detection of selection signatures in genes of interest
 
-paragraphs wide explenantion:
+paragraphs wide explanation:
 
-## Soy botany & Soy biotic and a biotic adaptions or difficutlys in relation to growing in higher latatudes. 
+## Soy botany & Soy biotic and a biotic adaptions or difficulty's in relation to growing in higher latitudes.    
 Add molecular genetics studies on flowering, cold tolerance, seed coat, etc.
 
 ## Soy agronomy & Climate change and soy
 
+for a rapidly changing cli- mate, or de novo adaptation of crops to expand cultivation ranges. 
+selection of suitible germplasm with phenotypic data
+to increase germplasm utilization [@haupt20]
+
 ## Soy domestication
 [@]
-Traces of soybean in the literature have been found in The Chou Dynasty (1122–221 BC) of China. And as the Dynasty expanded with trade soybean migrated with people to South China, Korea, Japan and South East Asia [@hymowitz1970]. However, for soybean to already be a trade commodaty at that point the domestication process must have tooken place well before. Modern cultivated soybean (*Glycine max* (L.) Merr.) is estimated to have been domesticated from wild soybean (*Glycine soja* Sieb. & Zucc.) in East Asia 6000–9000 yr ago [@carter04],[@kim2012b]. There are several hypotheses as to the origin location, 
+Traces of soybean in the literature have been found in The Chou Dynasty (1122–221 BC) of China. And as the Dynasty expanded with trade soybean migrated with people to South China, Korea, Japan and South East Asia [@hymowitz1970]. However, for soybean to already be a trade commodity at that point the domestication process must have taken place well before. Modern cultivated soybean (*Glycine max* (L.) Merr.) is estimated to have been domesticated from wild soybean (*Glycine soja* Sieb. & Zucc.) in East Asia 6000–9000 yr ago [@carter04],[@kim2012b]. 
 
-origin hypothesis ![Description \label{fig:1}](images/example.jpg)
+There are three main hypotheses as to the origin of soybean as it it known today. 
+
+origin hypothesis ![Description \label{fig:1}](images/origin_hypothesis.jpg)
 
 One (ref)
 
@@ -68,7 +79,7 @@ wild soybean grows commonly in eastern China (from 24--53°N lat.), Japan, Korea
 
 
 ## Soybean popgen 
-genetic archetecture of soyabeans
+genetic architecture of soybeans
  diversity
 Population structure:
 inferring population history and demography
@@ -86,18 +97,18 @@ soy diversity
 Introduce The purpose and relevance of a future with soy in the Nordics
 *paragraph*
 
-There is the idea that it could be cleaver for socioeconomic and environmental purposes to be more self sufficient when it comes to plant protiens and fats in europe. We import soy and other crops mainly as feed to our animals that then go on to be a source of meat protien for human consumption. 
-Our meat consumption is not sustainable. we should be able to source (grow) our protien for meat more locally. We import fo much soy into europe. 
+There is the idea that it could be cleaver for socioeconomic and environmental purposes to be more self sufficient when it comes to plant proteins and fats in europe. We import soy and other crops mainly as feed to our animals that then go on to be a source of meat protein for human consumption. 
+Our meat consumption is not sustainable. we should be able to source (grow) our protein for meat more locally. We import fo much soy into europe. 
 Also Soy can be a great source of vegetarian soybean for direct or processed human consumption. 
-Soy is also a vital ingredient (sot lycitine) in many processed foods. (numbers, ref)
-The unstability of our energy resources since war in europe also has rekindled this idea of being self sustainable in europe as an important
+Soy is also a vital ingredient (soy lecithin) in many processed foods. (numbers, ref)
+The unstableness of our energy resources since war in europe also has rekindled this idea of being self sustainable in europe as an important
 
 ## What we know and dont know
 
 1. What is the problem/Question?
 There is 136 soybeans in the NORDGEN gene bank and we want to know if they could be of use. 
 Why is it important?
-It is important because it would be a good idea to be able to grow more protien and oil rich crops in Northern Europe.
+It is important because it would be a good idea to be able to grow more protein and oil rich crops in Northern Europe.
 What do we not know?
 We dont know what we have. 
 We dont know how these NORDGEN accessions relate genetically to the rest of the soy.
@@ -107,7 +118,7 @@ We dont know whether there is genetic potential or a good starting point for fut
 bit that we do know
 we know that there is the Fiskeby and a few other accessions which have shown potential
 we know there was a breeding program
-we susspect who the founders are
+we suspect who the founders are
 We know that Fiskeby has been used in breeding for canadian cultivars successfully
 
 but... (smaller knowledge gap and transition to next paragraph)
@@ -122,7 +133,7 @@ but we would like to know if the selection of founders and succeeding breeding p
 
 4. 
 bit that we do know:
-we know there are aresas of interest in the soybean genome. Flowering and cold tolerence. 
+we know there are areas of interest in the soybean genome. Flowering and cold tolerance. 
 but... (smaller knowledge gap and transition to next paragraph)
 We would like to look for signals of selection there. 
 
@@ -223,13 +234,12 @@ Part Two "the scientific manuscript"
 
 HELP Templates and cheatsheet markdown
 ======
-This is just some reminders or templates of how to do stuff in markdown
-
+This is just some reminders or templates of how to do stuff in markdown.
 
 ## Image
 ![Description \label{fig:1}](images/example.jpg)
 
-Seen in figure \ref{fig:1}, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [@online]
+Seen in figure \ref{fig:1}, bla bla. [@online]
 
 ## Equation
 Cauchy's integral formula [@chan:2012aa]
@@ -240,17 +250,16 @@ f(a)=\frac{1}{2πi}∮_γ\frac{f(z)}{z-a}\,dz.
 \label{eq:1}
 $$
 
-As seen in equation $\eqref{eq:1}$, duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As seen in equation $\eqref{eq:1}$, bla bla.
 
 ## Source Code
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ```python
 def foo():
     return "bar"
 ```
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+text.
 
 ## Table
 
@@ -262,7 +271,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 Table: Table styles. \label{tab:1}
 
-Seen in table \ref{tab:1}, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Seen in table \ref{tab:1}, la la la.
 
 
 ## References
