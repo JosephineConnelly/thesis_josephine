@@ -6,43 +6,10 @@ bibliography: "bibliography.bib"
 link-citations: true
 urlcolor: "blue"
 ---
-The introduction 
-serves to set up your topic, purpose, and relevance. It tells the reader what to expect in the rest of your dissertation.
 
-- Establish the research topic, giving the background information needed to contextualize your work
-- Narrow down the focus and define the scope of your research
-- Discuss the state of existing research on the topic, showing the relevance to a broader problem or debate
-- Clearly state your research questions and objectives
-- Outline the flow of the rest of your work
 
 # introduction and literature review
  
-## Research questions
-
-Should we grow soy in the NE?
-
-What are the interesting rescources?
-    GRIN SNP
-    CCA
-    SBPA
-
-What do we already know about these resources?
-    Research done 
-            CCA paper
-            GRIN SNP
-    Historical information about the SBPA
-
-What more do we know about Soy?
-    Domesitacation of soy
-    general pogen
-    The interesting traits found  
-    signals of selection
-
-What do we want to know?
-    scope of my thesis
-    Larger scope
-
-Could SPBA and or CCA be interesting as a part of the future of soybean in NE?
 
 
 Part One "Introduction and literature Review" (Title)
@@ -50,6 +17,7 @@ Part One "Introduction and literature Review" (Title)
 
 ## 1. Introduction
 *Presents, motivates and delimits the professional topic/problem precisely and clearly using relevant professional terminology and with reference to existing literature.*
+
 *Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose.*
 topic presentation Presents glycine max
 Purpose, to study the resources to see if they have potential for further research.
@@ -62,12 +30,8 @@ Purpose, to study the resources to see if they have potential for further resear
 ### grin 
 
 
-we should grow soy in ne
-Because
-1. Soy bean would be good in crop rotation as a legume
-2. The composition of high protien and high oil is advantagious and is also the resason why so and so much is imported to the nordic countries (denmark sweden norway) each year. 
-3. Climate change 
-4. food security 
+
+
 
 
 Soybean plant growth is affected by temperature as well as photoperiod. Soybean can suffer from cold temeperatures during the flowering that effect pod size and seed formation resulting in lower yeild. (ref) 
@@ -96,6 +60,32 @@ what we need to know to get to the next step and answer the question of how to g
 
 
 
+# Research questions for part 1
+
+Should we grow soy in the NE?
+
+What are the interesting rescources?
+    GRIN SNP
+    CCA
+    SBPA
+
+What do we already know about these resources?
+    Research done 
+            CCA paper
+            GRIN SNP
+    Historical information about the SBPA
+
+What more do we know about Soy?
+    Domesitacation of soy
+    general pogen
+    The interesting traits found  
+    signals of selection
+
+What do we want to know?
+    scope of my thesis
+    Larger scope
+
+Could SPBA and or CCA be interesting as a part of the future of soybean in NE?
 
 
 
@@ -133,92 +123,3 @@ The method is well chosen and justified. Everything is carefully executed and ex
 Illustrations are used where it is appropriate, and provides meaning in the context.
 
 ## 6. references
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-help:
-
-# Image
-![Description \label{fig:1}](images/800x400.png)
-
-Seen in figure \ref{fig:1}, lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [@online]
-
-# Equation
-Cauchy's integral formula [@dixon1971brief]
-
-$$
-f(a)=\frac{1}{2πi}∮_γ\frac{f(z)}{z-a}\,dz.
-\tag{1}
-\label{eq:1}
-$$
-
-As seen in equation $\eqref{eq:1}$, duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-# Source Code
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-```python
-def foo():
-    return "bar"
-```
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-# Table
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-Table: Table styles. \label{tab:1}
-
-Seen in table \ref{tab:1}, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
-# References

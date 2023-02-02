@@ -2,5 +2,6 @@
     "workbench.colorTheme": "Solarized Light",
     "workbench.preferredLightColorTheme": "Solarized Light",
     "workbench.preferredHighContrastLightColorTheme": "Solarized Light",
-    "workbench.preferredDarkColorTheme": "Kimbie Dark"
+    "workbench.preferredDarkColorTheme": "Kimbie Dark",
+    "cSpell.enabled": true
 }
