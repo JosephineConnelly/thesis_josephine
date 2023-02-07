@@ -3,5 +3,8 @@
     "workbench.preferredLightColorTheme": "Solarized Light",
     "workbench.preferredHighContrastLightColorTheme": "Solarized Light",
     "workbench.preferredDarkColorTheme": "Kimbie Dark",
-    "cSpell.enabled": true
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "seedbanks"
+    ]
 }

@@ -7,6 +7,7 @@ link-citations: true
 urlcolor: "blue"
 ---
 
+![Description \label{fig:1}](images/structure_paper.jpg)
 
 # introduction and literature review
  

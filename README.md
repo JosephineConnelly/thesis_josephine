@@ -1,52 +1,40 @@
-# project folder for data analysis Soybean project: soyadapt_data_analysis
+# thesis text folder for Soybean project: thesis_josephine
 
 Josephine Estelle Ananda Connelly MSc Biology Aarhus University
-This is my repository for the data analysis in my thesis
-The data analysis is done and will be specified at the top of each workflow: 
-    - on my mac computer ZSH
-    - on the GenomeDK cluster in BASH
+This is my repository for the text in my thesis
+The maint textfiles are in the folder on my Onedrive/Soyadapt/writing_thesis/content
+The same version on my github/thesis_josephine
 
-The setup and startingpoint of the project is in the notebook startfile.ipynb
-
-i will keep this standardised structure adapted from https://snakemake.readthedocs.io/en/stable/snakefiles/best_practices.html#snakefiles-best-practices
+i will keep the logical (for me) structure 
 i will keep the filestructure and contents up to date!
 Last updated see last commit. 
 
 # project structure
 
-project name is <soyadapt_data_analysis>
+project name is <thesis_josephine>
 ├── .gitignore
 ├── README.md
 ├── LICENSE.md
-├── results
-├── resources
-│   ├── start_data
-|   │   ├── collected_start_data.vcf
-|   │   ├── collected_start_data.vcf.gz
-|   │   ├── collected_start_data.vcf.gz.csi
-|   │   ├── collected_start_data.vcf.gz.tbi
-|   │   ├── chr.txt
-|   │   ├── population_groups.xls
-|   │   └── population_groups.xls
-|   └── generated_data
-|   │   └── logfile
-├── workflow
-│   ├── envs
-|   │   ├── pp_env_x86.yaml
-|   │   └── pp_env_linux.yaml
-│   ├── scripts
-|   │   ├── script1.py
-|   │   └── script2.R
-│   ├── notebooks
-|   │   ├── startfile.py.ipynb (this file!)
-|   │   └── notebook2.r.ipynb
-│   ├── report
-|   │   ├── plot1.rst
-|   │   └── plot2.rst
-|   └── gwsfile
-├── config
-│   ├── config.yaml
-│   └── some-sheet.tsv
+├── Makefile (original)
+├── Build.sh (original)
+├── Build2.sh (the build im trying to change to my needs)
+├── LICENSE.md
+├── assets
+│   └── citation-style.csi
+├── content
+│   ├── bibliographyz
+|   │   └──(zotero bibiography backup)
+|   ├── images
+|   │   └── .jpeg
+│   ├── bibliography.bib
+│   ├── overview_layout.md
+│   ├── textfile.md (main manuscript file)
+│   ├── textfile.log
+│   ├── textfile2.md (part 2 manuscript here for now so as not to distract me)
+│   ├── write_intro.sty (introduction exercise)
+├── layouts
+│   ├── ereader.tex
+│   └── print.tex
 
 
 for the thesis text see repo JosephineConnelly/thesis_josephine
