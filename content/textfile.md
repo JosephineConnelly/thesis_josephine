@@ -1,33 +1,39 @@
 ---
-title: "Thesis Part 1 and 2"
+title: "Thesis Part 1"
 date: "2023-01-17"
 author: "Josephine Estelle Ananda Connelly"
 bibliography: "bibliography.bib"
 link-citations: true
 urlcolor: "blue"
 ---
+
 make .md Make into .docx
+
 pandoc -o output.docx -f markdown -t docx textfile.md
-make .docx to .md?
-pandoc -o output.docx -f markdown -t docx textfile.md
+
+pandoc -s input.docx -o output.md
+
 
 Part One "Introduce the scope of the project with relevant review"
 ======
 
-reference like this: [@carter04]
-over all goals:
+   reference like this: [@carter04]
+   SBPA = Swedish Breeding Program Accessions
+   SBP = Swedish Breeding Program
+   CCA = Core Collection Accessions. 
+   NWE = Northwest Europe
 
-• deal with an important subject, covering just the scope relevant to the data analysis article. 
+## is a heading 123 numbers indicate aprox word count
 
-• add a perspective to the entire subject and contribute significantly to understanding.
-
-SBPA = Swedish Breeding Program Accessions
-SBP = Swedish Breeding Program
-CCA = Core Collection Accessions. 
-NWE = Northwest Europe
-## is a heading
 **this is a sub-heading** 
+
 *this is a note to self what the heading/sub-heading or paragraph is about*
+
+[X] draft1 (first draft)(this is to help me know what type of text i have)
+
+[ ] draft2 (draft ready for feedback)
+
+[ ] draft3 (Finished text ready for submission)
 
 ## 1. Introduction [X] draft1
 
@@ -39,7 +45,7 @@ NWE = Northwest Europe
 
 - *serves to set up your topic, purpose, and relevance. It tells the reader what to expect in the rest of your dissertation.*
 
-overall goals writting differently:
+Overall goals written differently:
 
 - Establish the research topic, giving the background information needed to contextualize your work
 
@@ -68,6 +74,7 @@ overall goals writting differently:
 *150-200 words* 220
 
 **Text**
+
 *purpose* draft 2
 
 It is the purpose of this review to present the relevant knowledge and research about Soybean in northwest Europe as well as to motivate de novo expansion of the cultivation range of Soybean to north-western Europe. And to review that which is relevant to the expansion of the cultivation range and to collect the historical and now relevant soybean endeavours that have hitherto been stored in the historical literature and the NordGen seedbanks. 
@@ -109,13 +116,15 @@ The state of soybean agronomy and what are the climate change considerations for
 Population genetics can show relations and genetic diversity underlining the need for new genetic resources in the breeding pool.
 abiotic adaptations needed and climate change considerations. The traits we know have an importance in northern europe.
 
-we should grow soybean in NWE
-Because
-2. The composition of high protein and high oil is advantageous and is also the reason why so and so much is imported to the Nordic countries (Denmark, Sweden, Norway) each year.
-3. Climate change
-1. Soybean would be good in crop rotation as a legume
-4. food security
-[]
+we should grow soybean in NWE Because:
+
+- The composition of high protein and high oil is advantageous and is also the reason why so and so much is imported to the Nordic countries (Denmark, Sweden, Norway) each year.
+
+- Climate change
+
+- Soybean would be good in crop rotation as a legume
+
+- food security
 
 *composition*
 
@@ -135,15 +144,16 @@ Soybean is a great source of vegetarian soybean for direct or processed human co
 Soy is also a vital ingredient (soy lecithin) in many processed foods. (numbers, ref)
 The instability of our energy resources since war in Europe also has rekindled this idea of being self sustainable in Europe as an important political agenda.
 
-## Main text body: [] draft1
+## Main text body:
 
 *Description, explanation and discussion of results from the literature that are important in relation to the task's problem. It is typically divided into several paragraphs, where each paragraph deals with one sub-topic or one point of view, but where the connection is clear. The text must constitute an overall argument or lead to an overarching point that relates to the formulation of the problem.*
 
 Introduce Glycine max from the several perspectives, the botanic, agronomic and domestication history and recent history in the north.
 
-## Soy botany & Soy biotic and abiotic adaptations or difficulties in relation to growing in higher latitudes. & Climate change and soy 500-700 [] draft1   
+## Soy botany & Soy biotic and abiotic adaptations or difficulties in relation to growing in higher latitudes. & Climate change 500-700 [ ] draft1   
 
 *transition paragraph?*
+Soybean is an annual short day plant, meaning it will start to flower when the day length gets shorter and reaches a critical point. This Photoperiod sensitivity gives soybean a natural distribution range to the high latatudes. *Glycine max*   
 
    Kingdom: Plantae
    Phylum: Magnoliophyta
@@ -158,15 +168,18 @@ Introduce Glycine max from the several perspectives, the botanic, agronomic and 
 
 *general introduction to soybean in a botanic sense*
 
+*biotic and abiotic adaptions*
+
 *Glycine max* is a short day plant of the family *Fabaceae* also known as a Legume, it is one of the plant families that has a symbiosis with bacteria in nodes in the roots which fixate Nitrogen.
 
-*traits where soy is or is not adapted to or relevant to NWE climate + the change in climate as ex seen in the CCA paper*
+*traits where soy is or is not adapted to or relevant to NWE climate*
 for a rapidly changing climate, or de novo adaptation of crops to expand cultivation ranges.
 selection of suitable germplasm with phenotypic data
 to increase germplasm utilization [@haupt20]
 
+*the change in climate as ex seen in the CCA paper*
 
-## Soy agronomy  300[] draft1
+## Soy agronomy  300 [ ] draft1
 
 *transition?*
 
@@ -180,13 +193,13 @@ protein quality [@gorissen18]
 
 *crop rotation and nitrogen fixation*
 
-**
+Soybean as a legume is vital for crop rotation, not only because it is a good crop to have before a grain, but if it is also a cash crop, then even better. 
 
 *are there similar places (where soy is grown? canada japan.. why not just adapt their cultivars? how are they different*
 
-**
+*the consideration of climate change and its meaning for all crops and for soy*
 
-## Soy domestication 500 [] draft1
+## Soy domestication 500 [ ] draft1
 
 *transition?*
 
@@ -211,26 +224,31 @@ that *Glycine soy* is the
 
 *frameshifts, snps, indels, cnvs, LD fst*
 
+
+
 *glycine soy?*
 read paper The Untapped Genetic Reservoir: The Past, Current, and Future Applications of the Wild Soybean (Glycine soja) [@kofsky18] 
 
 ## Soybean pop gen 500 [] draft1
 
 *transition?*
+whats happenned after the domestication
 
 *genetic architecture of soybeans*
 
 see pan genome paper
 
 *genetic bottlenecks*
+the Fst paper talking about the bottlenecks showing how soy diversity has further been diminished.  
 
 Several severe genetic bottlenecks occurred during soybean domestication. During domestication to the landraces the sequence diversity in comparison to the wild species was halved, with 81% of rare alleles lost [@hyten06] and two major bottlenecks when very few landraces were used in the development of the north american modern cultivars and then on to the breeding of the past 75 years in america to the elite cultivars there is now.
 
 *diversity*
+other pools. where is there diversity then?  
 
 *selection or deleterious mutations removed and diversification occurred*
 
-**genes** *underlying domestication-related traits /improvements /diversification* 
+**genes** *underlying domestication-related traits (DRT) /improvements /diversification* 
 photoperiodic flowering
 flower, seed coat and pod colour
 
@@ -274,7 +292,7 @@ CCA
 Environmental data characterizing the geographic origin of germplasm in combination with environmental conditions of the Target Population of Environments.
 genes that are known or hypothesized to be involved in abiotic adaptation. [@haupt20]
 
-## Conclusion and perspective (questions & posibilities) 350-500 words [] draft1
+## Conclusion and perspective (questions & possibilities) 350-500 words [] draft1
 
 *The points from each subtopic are gathered into an overarching argument, an assessment or a conclusion that answers the problem set out in the introduction. Here, the author may identify shortcomings in the literature/science or provide perspective in another way.*
 
@@ -330,7 +348,7 @@ the core collection is still too many accessions to start a breeding program. al
 *and nordgen accessions could have potential*
 
 
-## Bibliography: [] draft1
+## Bibliography: []
 
 *Indicates the literature referred to in the text. A prerequisite for being able to write a good literature review is a thorough orientation in the literature, so that you can define a relevant and important problem, write a good problem formulation and then select the scientific studies that are most important for the subject.*
 
