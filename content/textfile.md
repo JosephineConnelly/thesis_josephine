@@ -2,7 +2,7 @@
 title: "Thesis Part 1"
 date: "2023-01-17"
 author: "Josephine Estelle Ananda Connelly"
-bibliography: "bibliography.bib"
+bibliography: "bibliography2.bib"
 link-citations: true
 urlcolor: "blue"
 ---
@@ -23,7 +23,7 @@ Part One "Introduce the scope of the project with relevant review"
    CCA = Core Collection Accessions. 
    NWE = Northwest Europe
 
-## is a heading 123 numbers indicate aprox word count
+## is a heading 123 numbers indicate approx word count
 
 **this is a sub-heading** 
 
@@ -79,7 +79,9 @@ Overall goals written differently:
 
 It is the purpose of this review to present the relevant knowledge and research about Soybean in northwest Europe as well as to motivate de novo expansion of the cultivation range of Soybean to north-western Europe. And to review that which is relevant to the expansion of the cultivation range and to collect the historical and now relevant soybean endeavours that have hitherto been stored in the historical literature and the NordGen seedbanks. 
 
-*Important low diversity* draft 2
+*Why it is Important: low diversity* draft 2
+
+also see [@dottinger23] for great reasons for why we need to breed for regional adaption in soybean.  
 
 According to [@gizlice96] (and pedigree records (ref)) only 19 landraces are thought to have contributed as much as 85% of the genes to the North American breeding pools retaining 72% of genome diversity and being furthermore imposed by selective breeding, 79% of rare alleles were lost [@hyten06].  
 Adaptation of crops to expand cultivation ranges.
@@ -96,7 +98,7 @@ The demand of soybean production only increases and has even more than doubled s
 
 *why soybean is relevant: because it's an important crop* draft 2
 
-It is successfully grown (where) latitudes. in north and south america for feed and is imported to europe in great amounts (4/5ths?)(ref) for animal feed. Soy is the perfect feed crop because of its protein and oil content. More than three quarters of that produced is fed to animals. It is also gaining popularity as a means to enough protein in a vegetarian diet (20% of produced amount).
+Soybean is a crop of global economic importance. It is successfully grown (where) latitudes. in north and south america for feed and is imported to europe in great amounts (4/5ths?)(ref) for animal feed. Soy is the perfect feed crop because of its protein and oil content. More than three quarters of that produced is fed to animals. It is also gaining popularity as a means to enough protein in a vegetarian diet (20% of produced amount).
 
 *there are downsides of the status quo*
 
@@ -140,7 +142,7 @@ less international dependency: It seems that the future europe, for socioeconomi
 
 "The production of meat has significantly larger environmental and climate footprints than the production of plant-based foods""Meat produces more emissions per unit of energy compared with that of plant-based foods because energy is lost at each trophic level." 
 we should be able to source (grow) our plant based protein more locally. We import so much soy into europe  x ref.
-Soybean is a great source of vegetarian soybean for direct or processed human consumption. According to [@messina22], soy-based meat substitutes compare well with their animal-based counterparts "because of the large acreage devoted to growing soybeans, this legume has the greatest potential for meeting the caloric and protein needs of a growing global population." Aditionally, soybean is already a refrence for 
+Soybean is a great source of vegetarian soybean for direct or processed human consumption. According to [@messina22], soy-based meat substitutes compare well with their animal-based counterparts "because of the large acreage devoted to growing soybeans, this legume has the greatest potential for meeting the caloric and protein needs of a growing global population." Additionally, soybean is already a reference for 
 Soy is also a vital ingredient (soy lecithin) in many processed foods. (numbers, ref)
 The instability of our energy resources since war in Europe also has rekindled this idea of being self sustainable in Europe as an important political agenda.
 
@@ -152,7 +154,8 @@ Introduce Glycine max from the several perspectives, the botanic, agronomic and 
 
 ## Soy botany & Soy biotic and abiotic adaptations or difficulties in relation to growing in higher latitudes. & Climate change 500-700 [ ] draft1   
 
-*transition paragraph?*
+*general introduction to soybean in a botanic sense*
+
 Soybean is an annual short day plant, meaning it will start to flower when the day length gets shorter and reaches a critical point. This Photoperiod sensitivity gives soybean a natural distribution range to the high latatudes. *Glycine max*   
 
    Kingdom: Plantae
@@ -166,11 +169,10 @@ Soybean is an annual short day plant, meaning it will start to flower when the d
    Botanical name: Glycine max (L. Merr.)
    Common name: Soybean, Soya bean
 
-*general introduction to soybean in a botanic sense*
-
 *biotic and abiotic adaptions*
 
-*Glycine max* is a short day plant of the family *Fabaceae* also known as a Legume, it is one of the plant families that has a symbiosis with bacteria in nodes in the roots which fixate Nitrogen.
+*Glycine max* is a short day plant of the family *Fabaceae* also known as a Legume, it is one of the plant families that has a symbiosis with bacteria in nodes in the roots which fixate Nitrogen. Autogamous
+*Glycine max* 2n=40 chromosome the genus and polyploidy interesting in speciation or becoming the genus glycine. 
 
 *traits where soy is or is not adapted to or relevant to NWE climate*
 for a rapidly changing climate, or de novo adaptation of crops to expand cultivation ranges.
@@ -196,6 +198,7 @@ protein quality [@gorissen18]
 Soybean as a legume is vital for crop rotation, not only because it is a good crop to have before a grain, but if it is also a cash crop, then even better. 
 
 *are there similar places (where soy is grown? canada japan.. why not just adapt their cultivars? how are they different*
+see chapter from book ordered Soybean: botany, production and uses. 
 
 *the consideration of climate change and its meaning for all crops and for soy*
 
@@ -238,6 +241,10 @@ whats happenned after the domestication
 
 see pan genome paper
 
+*Population structures like clusters*
+
+inferred population histories and demographies
+
 *genetic bottlenecks*
 the Fst paper talking about the bottlenecks showing how soy diversity has further been diminished.  
 
@@ -254,10 +261,6 @@ flower, seed coat and pod colour
 
 see [@sedivy17]
 
-*Population structures*
-
-inferred population histories and demographies
-
 ## Soy gene banks 500 [] draft1
 
 *transition?*
@@ -266,6 +269,7 @@ inferred population histories and demographies
 
 "The largest collection for G. max is maintained at the Institute of Crop Germplasm Resources in China which has over 23,000 accessions while the second largest collection is maintained at the USDA Soybean Germplasm collection in Urbana, IL, USA which contains over 18,000 accessions (Carter et al., 2004)." from book : https://www.sciencedirect.com/science/article/pii/B9780983079101500078
 
+*and soybase?*
 
 *GRIN USDA Soybean Germplasm collection*
 
@@ -277,6 +281,7 @@ inferred population histories and demographies
 *transition*
 
 *SBP origin*
+
 SBP 1938-1973
 (from my pp)
 There are primarily three characteristics that distinguish the soybean varieties from Holmberg’s breeding and that are entirely essential to the adaptation to the Swedish climate: (1) Adaptation to long-day-climate. (2) Tolerance against low summer temperatures. (3) Early ripening. Three varieties of soybeans from Sven Holmberg’s breeding are or have been incorporated into the Swedish list of varieties, Fiskeby V, Bråvalla and Träff.
@@ -296,57 +301,20 @@ genes that are known or hypothesized to be involved in abiotic adaptation. [@hau
 
 *The points from each subtopic are gathered into an overarching argument, an assessment or a conclusion that answers the problem set out in the introduction. Here, the author may identify shortcomings in the literature/science or provide perspective in another way.*
 
-*What is the problem/Question?*
+*Gather points to build the argument from the subtopics*
 
-There are 136 soybeans in the NORDGEN gene bank and we want to know if they could be of use.
 
-*Why is it important again?*
+*shortcomings*
 
-It is important because it would be a good idea to be able to grow more protein and oil rich crops in Northern Europe.
+In this case, the problem is to determine whether the 136 soybeans in the NORDGEN gene bank could be of use, given the goal of growing more protein and oil rich crops in Northern Europe. It is important to address this question because it could lead to the development of a breeding program for a future crop in the region.
 
-*What do we not know?*
+However, there are gaps in knowledge that need to be addressed. Firstly, it is unclear what exactly is contained within the NORDGEN accessions and how they relate genetically to the rest of the soy. Furthermore, it is uncertain whether there is any genetic potential or a good starting point for future breeding programs.
 
-We don't know really know what we have.
-We don't know how these NORDGEN accessions relate genetically to the rest of the soy.
-We don't know whether there is genetic potential or a good starting point for future breeding programs here.
+Although there are some known factors, such as the cultivar Fiskeby and a few other accessions that are thought to have potential, it is important to establish whether the founders were indeed the founders and whether the Swedish accessions are a genetic unit. Additionally, it is not clear if the selection of founders and succeeding breeding program selected for desirable traits or if it was simply a result of drift.
 
-*bit that we do know*
+While there are areas of interest in the soybean genome, such as flowering and cold tolerance, it is necessary to look for diversity and signals of selection there. It is also important to understand how the CCA relates to the SBPA, and once these questions are answered, we can better understand how to proceed with optimal breeding for soybean in Northern and Western Europe.
 
-we know that there is the cultivar Fiskeby and a few other accessions which are thought to have potential
-we know there was a breeding program
-we know some of the founders
-We know that Fiskeby has been used in breeding for canadian cultivars successfully and that field trials in denmark showed potential. 
-
-*but... (smaller knowledge gap and transition to next paragraph)*
-
-but we want to show that the founders were indeed the founders
-and that the Swedish accessions are a genetic unit.
-
-*bit that we do know:*
-
-but we do know there was a breeding program with resulting cultivars.
-
-*but... (smaller knowledge gap and transition to next paragraph)*
-
-but we would like to know if the selection of founders and succeeding breeding program if they did select for traits or if it was just drift?
-
-*bit that we do know:*
-
-We know there are areas of interest in the soybean genome. Flowering and cold tolerance.
-but... (smaller knowledge gap and transition to next paragraph)
-We would like to look for signals of selection there.
-We also know of the CCA and would like to see how they relate to the SBPA
-
-When these questions are answered we can better know how to proceed for optimal breeding for soybean in NWE.
-
-*conclude that the diversity is low*
-
-*that the CCA is a start*
-
-the core collection is still too many accessions to start a breeding program. also its too few parameters. only weather and in comparison to origin.  
-
-*and nordgen accessions could have potential*
-
+In conclusion, the diversity within soybean is low, and the core collection is still too large to begin a breeding program. Additionally, the parameters, which are only weather and origin in comparison, are too few and phenotype data should be looked further into to see narrow down the potential accessions. However, the CCA provides a starting point, and there is potential within the NORDGEN accessions that could be added to this group making an even better potential which can be developed with further study and research.
 
 ## Bibliography: []
 

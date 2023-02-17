@@ -7,99 +7,131 @@ link-citations: true
 urlcolor: "blue"
 ---
 
-![Description \label{fig:1}](images/structure_paper.jpg)
+---
+title: "Thesis Part 1"
+date: "2023-01-17"
+author: "Josephine Estelle Ananda Connelly"
+bibliography: "bibliography.bib"
+link-citations: true
+urlcolor: "blue"
+---
 
-# introduction and literature review
- 
-
-
-Part One "Introduction and literature Review" (Title)
+Part One "Introduce the scope of the project with relevant review"
 ======
 
-## 1. Introduction
-*Presents, motivates and delimits the professional topic/problem precisely and clearly using relevant professional terminology and with reference to existing literature.*
+## is a heading 123 numbers indicate aprox word count
 
-*Describes how the task is structured and what the purpose of the individual sub-elements is. The sub-elements are put in relation to each other and the assignment appears as a coherent text with an overall purpose.*
-topic presentation Presents glycine max
-Purpose, to study the resources to see if they have potential for further research.
-
-
-## Main text 
-*Description, explanation and discussion of results from the literature that are important in relation to the task's problem. It is typically divided into several paragraphs, where each paragraph deals with one sub-topic or one point of view, but where the connection is clear. The text must constitute an overall argument or lead to an overarching point that relates to the formulation of the problem.*
-### Soy introduction
-### soy domestication
-### grin 
+**this is a sub-heading** 
 
 
 
+## 1. Summary and or Introduction [X] draft1
 
 
+*purpose* draft 2
 
-Soybean plant growth is affected by temperature as well as photoperiod. Soybean can suffer from cold temeperatures during the flowering that effect pod size and seed formation resulting in lower yeild. (ref) 
+*Why is this subject Important: low diversity* draft 2
 
-For soybean to grow it would have to be better adapted to the growing conditions (chilling tolerence).
-early ripening varaietys (maturisty scores 00-000(0?)) have to have the stable yield. 
+*the answer? Nordgen or other accessions* draft 2
 
+*Why is it timely* draft 2
 
-There is a reduced level 
+*why soybean is relevant: because it's an important crop* draft 2
 
-Swedish breeding program historical information
+*there are downsides of the status quo*
 
+*The idea to develop soybean as a crop in northwest europe* draft 1
 
-CCA review
+*what to review:* draft 1
 
+*we should grow soybean in NWE Because:*
 
+*composition*
 
+*climate change*
 
-## Conclusion and perspective
-*The points from each sub-topic are gathered into an overarching argument, an assessment or a conclusion that answers the problem set out in the introduction. Here, the author may identify shortcomings in the literature/science or provide perspective in another way.*
-what we need to know to get to the next step and answer the question of how to go forward and with what.
+*why good idea food security*
 
-
-## Bibliography
-*Indicates the literature referred to in the text. A prerequisite for being able to write a good literature review is a thorough orientation in the literature, so that you can define a relevant and important problem, write a good problem formulation and then select the scientific studies that are most important for the subject.*
-
-
-
-# Research questions for part 1
-
-Should we grow soy in the NE?
-
-What are the interesting rescources?
-    GRIN SNP
-    CCA
-    SBPA
-
-What do we already know about these resources?
-    Research done 
-            CCA paper
-            GRIN SNP
-    Historical information about the SBPA
-
-What more do we know about Soy?
-    Domesitacation of soy
-    general pogen
-    The interesting traits found  
-    signals of selection
-
-What do we want to know?
-    scope of my thesis
-    Larger scope
-
-Could SPBA and or CCA be interesting as a part of the future of soybean in NE?
+*why good idea food security*
 
 
+## Main text body:
+
+## Soy botany & Soy biotic and abiotic adaptations or difficulties in relation to growing in higher latitudes. & Climate change 500-700 [ ] draft1   
+
+*general introduction to soybean in a botanic sense*
+
+*biotic and abiotic adaptions*
+
+*traits where soy is or is not adapted to or relevant to NWE climate*
+
+*the change in climate as ex seen in the CCA paper*
+
+## Soy agronomy  300 [ ] draft1
+
+*transition?*
+
+*Is there a need for more detail on how big soy is in the world?*
+
+*important crop due to all the uses. food feed, the production of biofuels, bioplastics, and other industrial products.*
+
+*crop rotation and nitrogen fixation*
+
+*are there similar places (where soy is grown? canada japan.. why not just adapt their cultivars? how are they different*
+
+*the consideration of climate change and its meaning for all crops and for soy*
+
+## Soy domestication 500 [ ] draft1
+
+*transition?*
+
+*time and place*
+
+*Origin hypotheses*
+
+*frameshifts, snps, indels, cnvs, LD fst*
+
+*glycine soy?*
+
+## Soybean pop gen 500 [] draft1
+
+*transition?*
+whats happened after the domestication
+
+*genetic architecture of soybeans pangenome paper*
+
+*Population structures diff admixture analyses?*
+
+*genetic bottlenecks the fst paper*
+
+*diversity*
+
+*selection or deleterious mutations removed and diversification occurred*
+
+**genes** *underlying domestication-related traits (DRT) /improvements /diversification* 
+
+## Soy gene banks 500 [] draft1
+
+*transition?*
+
+*Extremely short history of gene / seed banks and their paramount importance!*
+
+*GRIN USDA Soybean Germplasm collection*
+
+*NORDGEN genebank*
+
+## Resources including what we know about Soy history in NWE (SBP) + CCA 700-900 [] draft1
+
+*transition*
+
+*SBP origin*
+
+*CCA review*
+
+## Conclusion and perspective (questions & possibilities) 350-500 words [] draft1
 
 
-
-
-
-
-
-
-
-
-
+## Bibliography: []
 
 
 Part Two "the scientific manuscript"
