@@ -18,12 +18,16 @@ Part One "Introduce the scope of the project with relevant review"
 ======
 
    reference like this: [@carter04]
+
    SBPA = Swedish Breeding Program Accessions
+   
    SBP = Swedish Breeding Program
+   
    CCA = Core Collection Accessions. 
+   
    NWE = Northwest Europe
 
-## is a heading 123 numbers indicate approx word count
+## This is a heading 123 numbers indicate approx word count
 
 **this is a sub-heading** 
 
@@ -83,7 +87,7 @@ It is the purpose of this review to present the relevant knowledge and research 
 
 also see [@dottinger23] for great reasons for why we need to breed for regional adaption in soybean.  
 
-According to [@gizlice96] (and pedigree records (ref)) only 19 landraces are thought to have contributed as much as 85% of the genes to the North American breeding pools retaining 72% of genome diversity and being furthermore imposed by selective breeding, 79% of rare alleles were lost [@hyten06].  
+According to [@gizlice96] (and pedigree records? (ref)) only 19 landraces are thought to have contributed as much as 85% of the genes to the North American breeding pools retaining 72% of genome diversity and being furthermore imposed by selective breeding, 79% of rare alleles were lost [@hyten06].  
 Adaptation of crops to expand cultivation ranges.
 This reduced level of genetic variation in elite breeding populations means that in the case of soybean, there is a need to look elsewhere to increase germplasm utilization for abiotic adaptation. Relevant accessions to have the potential for abiotic adaptation to cold tolerance for a rapidly changing climate have identified [@haupt20].
 
@@ -169,23 +173,24 @@ Soybean is an annual short day plant, meaning it will start to flower when the d
    Botanical name: Glycine max (L. Merr.)
    Common name: Soybean, Soya bean
 
-*biotic and abiotic adaptions*
-
 *Glycine max* is a short day plant of the family *Fabaceae* also known as a Legume, it is one of the plant families that has a symbiosis with bacteria in nodes in the roots which fixate Nitrogen. Autogamous
 *Glycine max* 2n=40 chromosome the genus and polyploidy interesting in speciation or becoming the genus glycine. 
 
-*traits where soy is or is not adapted to or relevant to NWE climate*
+**biotic and abiotic adaptions** 
+
+**traits where soy is or is not adapted to or relevant to NWE climate**
+
 for a rapidly changing climate, or de novo adaptation of crops to expand cultivation ranges.
 selection of suitable germplasm with phenotypic data
 to increase germplasm utilization [@haupt20]
 
-*the change in climate as ex seen in the CCA paper*
+**the change in climate as ex seen in the CCA paper**
 
 ## Soy agronomy  300 [ ] draft1
 
 *transition?*
 
-*Is there a need for more detail on how big soy is in the world?*
+*Is there a need for more detail on how big soy is in the world?* Alot of the introduction should actually maybe be here. 
 
 Soybean is the main source of plant protein and oil in the world, worldwide production in 2020 was 353.46 million tons. In The European Union in the same year 2.69 million tons were produced, and only 2560 tonnes in Northern Europe [@fao23]. One fifth 
 of the soybean produced is used for human consumption. The oil is the main source for cooking oil in the world and the      [@fang22]
@@ -210,24 +215,13 @@ see chapter from book ordered Soybean: botany, production and uses.
 
 wild soybean grows commonly in eastern China (from 24--53°N lat.), Japan, Korea, and the eastern extremes of Russia [@carter04]
 
-Traces of soybean in the literature have been found in The Chou Dynasty (1122–221 BC) of China. And as the Dynasty expanded with trade, soybeans migrated with people to South China, Korea, Japan and SouthEast Asia [@hymowitz1970]. However, for soybean to already be a trade commodity at that point the domestication process must have taken place well before. Modern cultivated soybean *Glycine max* is estimated to have been domesticated from wild soybean (*Glycine soja* Sieb. & Zucc.) in East Asia 6000–9000 yr ago [@carter04],[@kim2012b].
+Traces of the cultivated soybean *Glycine max* in the literature have been found in The Chou Dynasty (1122–221 BC) of China. And as the Dynasty expanded with trade, soybeans migrated with people to South China, Korea, Japan and SouthEast Asia [@hymowitz1970]. However, for soybean to already be a trade commodity at that point the domestication process must have taken place well before. Modern cultivated soybean *Glycine max* is estimated to have been domesticated from wild soybean (*Glycine soja* Sieb. & Zucc.) in East Asia 6000–9000 yr ago [@carter04],[@kim2012b].
 
-*Origin hypotheses*
+*Origin hypotheses* (draft 1)
 
-There are three main hypotheses as to the origin of soybean as it is known today. 
+It is still a debated as to whether *Glycine max* or originates solely from *Glycine soy* as the single origin hypothesis [@sedivy17]. The other tow debated hypotheses are the multiple origin (this is this and that) and the Complex origin of soybean considers that *Glycine max* and an intermediate *Glycine gracialis* formed a complex eventually to become domesticised to *Glycine max* [@lee11], [@kim2012b].
 
 origin hypothesis ![Description \label{fig:1}](images/origin_hypothesis.jpg) fig ref [@sedivy17]
-
-- Single origin (ref) 
-that *Glycine soy* is the 
-
-- multiple origin
-
-- Complex origin [@lee11], [@kim2012b]
-
-*frameshifts, snps, indels, cnvs, LD fst*
-
-
 
 *glycine soy?*
 read paper The Untapped Genetic Reservoir: The Past, Current, and Future Applications of the Wild Soybean (Glycine soja) [@kofsky18] 
@@ -235,25 +229,35 @@ read paper The Untapped Genetic Reservoir: The Past, Current, and Future Applica
 ## Soybean pop gen 500 [] draft1
 
 *transition?*
-whats happenned after the domestication
+
+whats happened after the domestication
+
+*genetic bottlenecks*
+
+**Fst**
+the Fst paper talking about the bottlenecks showing how soy diversity has further been diminished.  
+
+
+
+Several severe genetic bottlenecks occurred during soybean domestication. During domestication to the landraces the sequence diversity in comparison to the wild species was halved, with 81% of rare alleles lost [@hyten06] and two major bottlenecks when very few landraces were used in the development of the north american modern cultivars and then on to the breeding of the past 75 years in america to the elite cultivars there is now.
 
 *genetic architecture of soybeans*
 
 see pan genome paper
 
+frameshifts, snps, indels, cnvs, LD fst?
+
+
 *Population structures like clusters*
 
-inferred population histories and demographies
-
-*genetic bottlenecks*
-the Fst paper talking about the bottlenecks showing how soy diversity has further been diminished.  
-
-Several severe genetic bottlenecks occurred during soybean domestication. During domestication to the landraces the sequence diversity in comparison to the wild species was halved, with 81% of rare alleles lost [@hyten06] and two major bottlenecks when very few landraces were used in the development of the north american modern cultivars and then on to the breeding of the past 75 years in america to the elite cultivars there is now.
+inferred population histories and demographies 
 
 *diversity*
-other pools. where is there diversity then?  
+Divestiry pools. what is this and where is there diversity then?  
 
 *selection or deleterious mutations removed and diversification occurred*
+
+selection 
 
 **genes** *underlying domestication-related traits (DRT) /improvements /diversification* 
 photoperiodic flowering
