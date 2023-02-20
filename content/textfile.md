@@ -154,9 +154,9 @@ The instability of our energy resources since war in Europe also has rekindled t
 
 Introduce Glycine max from the several perspectives, the botanic, agronomic and domestication history and recent history in the north.
 
-## Soy domestication 500 [ ] draft1
+## Soy domestication and botany 500 [ ] draft1
 
-**general introduction to soybean in a botanic sense**
+### **general introduction to soybean in a botanic sense** draft1
 
 Soybean is an annual short day plant, meaning it will start to flower when the day length gets shorter and reaches a critical point. This Photoperiod sensitivity gives soybean a natural distribution range to the high latatudes. *Glycine max*   
 
@@ -175,24 +175,45 @@ Soybean is an annual short day plant, meaning it will start to flower when the d
 *Glycine max* 2n=40 chromosome the genus and polyploidy interesting in speciation or becoming the genus glycine. 
 
 
-**domestication time and place**
+### **domestication time and place** draft1
 
 wild soybean grows commonly in eastern China (from 24--53°N lat.), Japan, Korea, and the eastern extremes of Russia [@carter04].
 
 Traces of the cultivated soybean *Glycine max* in the literature have been found in The Chou Dynasty (1122–221 BC) of China. And as the Dynasty expanded with trade, soybeans migrated with people to South China, Korea, Japan and SouthEast Asia [@hymowitz1970]. However, for soybean to already be a trade commodity at that point the domestication process must have taken place well before. Modern cultivated soybean *Glycine max* is estimated to have been domesticated from wild soybean (*Glycine soja* Sieb. & Zucc.) in East Asia 6000–9000 yr ago [@carter04],[@kim2012b].
 
-**Origin hypotheses** (draft 1)
+### **Origin hypotheses** (draft 1)
 
 It is still a debated as to whether *Glycine max* or originates solely from *Glycine soy* as the single origin hypothesis [@sedivy17]. The other tow debated hypotheses are the multiple origin (this is this and that) and the Complex origin of soybean considers that *Glycine max* and an intermediate *Glycine gracialis* formed a complex eventually to become domesticised to *Glycine max* [@lee11], [@kim2012b].
 
 origin hypothesis ![Description \label{fig:1}](images/origin_hypothesis.jpg) fig ref [@sedivy17]
 
-**glycine soy?**
+### **glycine soy?**
 read paper The Untapped Genetic Reservoir: The Past, Current, and Future Applications of the Wild Soybean (Glycine soja) [@kofsky18] 
+The genetic duplication event... how the is ploidy differs from others in the glycine genus.
 
-## Soy botany & Soy biotic and abiotic adaptations or difficulties in relation to growing in higher latitudes. & Climate change 500-700 [ ] draft1 
+### Soy botany & Soy biotic and abiotic adaptations or difficulties in relation to growing in higher latitudes. & Climate change 500-700 [ ] draft1 
 
 **biotic and abiotic adaptions**
+
+What decides the range
+what adaption need to be done
+
+What is photosentitivity?
+when flowering occurs. weeks after flowering. 
+
+
+what does temperature mean? 
+for flowering?
+
+
+maturity. time to maturity in weeks 
+
+The wild-type is photoperiod sensitive E1 allele. 
+
+reproduction can also be taken into consideration. 
+
+
+ 
 
 **traits where soy is or is not adapted to or relevant to NWE climate**
 days to flower are also dependent on accumulated temperature. (ref)
@@ -206,31 +227,52 @@ to increase germplasm utilization [@haupt20]
 
 **the change in climate as ex seen in the CCA paper or otherwise?** **climate change and its meaning for all crops and for soy**
 
+Our climate is changing, what does this mean for a crop like soy? 
+how does the changes in our climate and the future changes need to be taken into consideration.  
 
-## Soy agronomy/econimy  300 [ ] draft1
 
-**Is there a need for more detail on how big soy is in the world?** Alot of the introduction should actually maybe be here. 
+## Soy agronomy/economy  300 [ ] draft1
+
+### **Is there a need for more detail on how big soy is in the world?** Alot of the introduction psrt should actually be moved here. 
 
 Soybean is the main source of plant protein and oil in the world, worldwide production in 2020 was 353.46 million tons. In The European Union in the same year 2.69 million tons were produced, and only 2560 tonnes in Northern Europe [@fao23]. One fifth 
 of the soybean produced is used for human consumption. The oil is the main source for cooking oil in the world and the      [@fang22]
 
-**important crop due to all the uses. food feed, the production of biofuels, bioplastics, and other industrial products.**
+### **important crop due to all the uses. food feed, the production of biofuels, bioplastics, and other industrial products.**
 
 protein quality [@gorissen18]
-**transition?**
+
+### **transition?**
 
 These traits effect the distribution of soybean as a crop. 
 can soybean grow in europe? [@kurasch17], [@petersen10] 
 
-What decides the range
-what adaption need to be done 
+### **plant stages as defined in V1-V ?. R1-R8** 
+The V stages are defined by the number of trifoliate leaves that have developed (unrolled) on the main stem, not the branches.
+VE Stage: Emergence
+VC Stage: Cotyledon
+V1 - V3 Stages: First, Second & Third Trifoliate
+V4 Stage: Fourth Trifoliolate. branching beginning
+V5 Stage: Fifth Trifoliate. About a week until flowering begins
 
-**MG** draft2
+R1: Beginning bloom. At least one flower appears always on the third to sixth node on the main stem. The plant is at the V7 to V10 stage.
 
-There is a broad variation in sensitivity to photoperiod in soybean cultivars. The maturity group (MG) system is widely used to group soybean varieties based on their growth periods and photothermal responses, categorising based on based on their growth periods and photothermal responses. Although there is no universal standard or quantifiable methodology for MG classification. there are 13 MGs ranging from MG 000 for the very early-maturing varieties to MG X for the latest-maturing varieties, with a possible a extention of this range coming since MG 0000 varaities havde been described and are used in more recent papers classifying maturity groups [@song19], [@jia14].
+R2: Full Flowering
+R3: Beginning Pod Development
+R4: Full Pod
+R5: Beginning Seed
+R6: Full Seed
+R7: Beginning Maturity
+R8: Full Maturity
 
 
-**are there similar places (where soy is grown? canada japan.. why not just adapt their cultivars? how are they different**
+
+### **MG** draft2
+
+There is a broad variation in sensitivity to photoperiod in soybean cultivars. The maturity group (MG) system is widely used to group soybean varieties based on their growth periods and photothermal responses, categorising based on based on their growth periods and photothermal responses. Although there is no universal standard or quantifiable methodology for (MG) classification (also refered to as Maturity Group Refrence (MGR)). there are 13 MGs ranging from MG 000 for the very early-maturing varieties to MG X for the latest-maturing varieties, with a possible a extention of this range coming since MG 0000 varaities havde been described and are used in more recent papers classifying maturity groups [@song19], [@jia14].
+
+
+### **are there similar places (where soy is grown? canada japan.. why not just adapt their cultivars? how are they different**
 
 see chapter from book ordered Soybean: botany, production and uses. 
  
@@ -238,7 +280,7 @@ see chapter from book ordered Soybean: botany, production and uses.
 for the north the ability to reach full maturity is the problem? what does the different papers say. 
 
 
-**crop rotation and nitrogen fixation**
+### **crop rotation and nitrogen fixation**
 
 Soybean as a legume is vital for crop rotation, not only because it is a good crop to have before a grain, but if it is also a cash crop, then even better. 
 
@@ -249,7 +291,7 @@ Temerature,
 
 ## Soybean pop gen 500 [] draft1
 
-**transition paragraph? whats happened after the domestication. short history in two sentences.**
+### **transition paragraph? whats happened after the domestication. short history in two sentences.**
 
 Several severe genetic bottlenecks occurred during soybean domestication. During domestication to the landraces the sequence diversity in comparison to the wild species was halved, with 81% of rare alleles lost [@hyten06] and two major bottlenecks when very few landraces were used in the development of the north american modern cultivars and then on to the breeding of the past 75 years in america to the elite cultivars there is now.
 
@@ -282,7 +324,7 @@ see [@sedivy17]
 
 ## Soy gene banks 500 [] draft1
 
-**transition paragraph**
+### **transition paragraph**
 
 the affore metioned diversity pools are kept as genebanks! 
 
@@ -300,9 +342,9 @@ Although there is world wide
 
 ## Soy history in NWE (SBP) + CCA 700-900 [] draft1
 
-**transition**
+### **transition**
 
-**SBP origin**
+### **SBP origin**
 
 SBP 1938-1973
 (from my pp)
