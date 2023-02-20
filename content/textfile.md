@@ -267,6 +267,7 @@ R8: Full Maturity
 
 
 
+
 ### **MG** draft2
 
 There is a broad variation in sensitivity to photoperiod in soybean cultivars. The maturity group (MG) system is widely used to group soybean varieties based on their growth periods and photothermal responses, categorising based on based on their growth periods and photothermal responses. Although there is no universal standard or quantifiable methodology for (MG) classification (also refered to as Maturity Group Refrence (MGR)). there are 13 MGs ranging from MG 000 for the very early-maturing varieties to MG X for the latest-maturing varieties, with a possible a extention of this range coming since MG 0000 varaities havde been described and are used in more recent papers classifying maturity groups [@song19], [@jia14].
@@ -280,13 +281,9 @@ see chapter from book ordered Soybean: botany, production and uses.
 for the north the ability to reach full maturity is the problem? what does the different papers say. 
 
 
-### **crop rotation and nitrogen fixation**
+### **crop rotation and nitrogen fixation** *mention here or somewhere*
 
 Soybean as a legume is vital for crop rotation, not only because it is a good crop to have before a grain, but if it is also a cash crop, then even better. 
-
-
-**here starts the actual argument building for the consideration of growing soy in nothern climate**
-Temerature, 
 
 
 ## Soybean pop gen 500 [] draft1
@@ -365,7 +362,11 @@ genes that are known or hypothesized to be involved in abiotic adaptation. [@hau
 
 **The points from each subtopic are gathered into an overarching argument, an assessment or a conclusion that answers the problem set out in the introduction. Here, the author may identify shortcomings in the literature/science or provide perspective in another way.**
 
-**Gather points to build the argument from the subtopics**
+
+**Gather points to build the argument from the subtopics** **here starts the actual argument building for the consideration of growing soy in nothern climate**
+
+agronomically it makes sense and it should be possible. Yeild ofcourse needs to be high enough. 
+
 
 
 **shortcomings**
