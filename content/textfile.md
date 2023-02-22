@@ -1,8 +1,8 @@
 ---
 title: "Thesis Part 1"
-date: "2023-01-17"
+date: "2023-02-21"
 author: "Josephine Estelle Ananda Connelly"
-bibliography: "bibliography2.bib"
+bibliography: "bibliography.bib"
 link-citations: true
 urlcolor: "blue"
 ---
@@ -10,6 +10,10 @@ urlcolor: "blue"
 make .md Make into .docx
 
 pandoc -o output.docx -f markdown -t docx textfile.md
+
+with bib
+pandoc -o output.docx -f markdown -t docx --bibliography=bibliography.bib --csl=citation-style.csl textfile.md
+
 
 pandoc -s input.docx -o output.md
 
@@ -134,7 +138,7 @@ we should grow soybean in NWE Because:
 
 **climate change**
 
-Soybean is a unique crop because, as other legumes it has high protein content, but uniquely from other domesticated protein rich crops, there doesn't follow along a lot of carbohydrates in the seed. This makes soybean a fitting protein source. Furthermore, the protein content (aprrox X%) and quality @messina22 make it the most prevalent and cheap source of protein [@messina22],[@fang22]. 
+Soybean is a unique crop because, as other legumes it has high protein content, but uniquely from other domesticated protein rich crops, there doesn't follow along a lot of carbohydrates in the seed. This makes soybean a fitting protein source. Furthermore, the protein content (aprrox. X%) and quality @messina22 make it the most prevalent and cheap source of protein [@messina22],[@fang22]. 
 
 **why good idea food security**
 
@@ -240,7 +244,11 @@ of the soybean produced is used for human consumption. The oil is the main sourc
 
 ### **important crop due to all the uses. food feed, the production of biofuels, bioplastics, and other industrial products.**
 
-protein quality [@gorissen18]
+protein quality [@gorissen18] 30-45% protein and 15-25% oil
+
+field trial in dk
+2009 "It is possible to grow soybeans in Denmark, but under conventional cultivation conditions will production could hardly compete with imports roasted soybeans. As a niche production, a yield of around 20 hkg/ha Danish-bred, organic soybeans might be profitable, especially when sold for consumption.
+Important cultivation aspects arehj early establishment of varieties that flower and ripen early as well as the development of methods for harvesting, cleaning and drying off the seeds." [@petersen09] In similar field trials conducted in 2010 included several of the swedish accessions, where the yield for Fiskeby V was only 11.2hkg/ha. [@petersen10]
 
 ### **transition?**
 
@@ -270,7 +278,7 @@ R8: Full Maturity
 
 ### **MG** draft2
 
-There is a broad variation in sensitivity to photoperiod in soybean cultivars. The maturity group (MG) system is widely used to group soybean varieties based on their growth periods and photothermal responses, categorising based on based on their growth periods and photothermal responses. Although there is no universal standard or quantifiable methodology for (MG) classification (also refered to as Maturity Group Refrence (MGR)). there are 13 MGs ranging from MG 000 for the very early-maturing varieties to MG X for the latest-maturing varieties, with a possible a extention of this range coming since MG 0000 varaities havde been described and are used in more recent papers classifying maturity groups [@song19], [@jia14].
+There is a broad variation in sensitivity to photoperiod in soybean cultivars. The maturity group (MG) system is widely used to group soybean varieties based on their growth periods and photothermal responses, categorized based on their growth periods and photothermal responses. Although, there is no universal standard or quantifiable methodology for (MG) classification (also referred to as Maturity Group Reference (MGR)). There are 13 MGs ranging from MG 000 for the very early-maturing varieties to MG X for the latest-maturing varieties, with a possible extension of this range coming since MG 0000 varieties have been described and are used in more recent papers classifying maturity groups [@song19], [@jia14].
 
 
 ### **are there similar places (where soy is grown? canada japan.. why not just adapt their cultivars? how are they different**
@@ -343,15 +351,14 @@ Although there is world wide
 
 ### **SBP origin**
 
-SBP 1938-1973
-(from my pp)
-There are primarily three characteristics that distinguish the soybean varieties from Holmberg’s breeding and that are entirely essential to the adaptation to the Swedish climate: (1) Adaptation to long-day-climate. (2) Tolerance against low summer temperatures. (3) Early ripening. Three varieties of soybeans from Sven Holmberg’s breeding are or have been incorporated into the Swedish list of varieties, Fiskeby V, Bråvalla and Träff.
-Fiskeby highest yielding
-Bråvalla and Träff are short and extremely early varieties. They ripen 8 and 12 days, respectively, earlier than Fiskeby V.
-The soybean varieties from Fiskeby are well known among soybean growers all over the world, consisting of a source for early gestation and tolerance against low temperatures in breeding programs, wherever these characteristics were needed. 
+Together three sources, a paper called *Soybeans for cool temperate climates* by Sven A. Holmberg, published in 1973 presents the results of a soybean breeding program from 1939 to 1973, With two books, one about everything soybean in northwest Europe and the other about plant breeding in Sweden it is possible to piece together the story of the genetic source of soybean from the Nordgen genebank. Three cultivars were the result of the program Fiskeby V being the highest yielding and the tallest with, Bråvalla and Träff which are short and extremely early varieties, ripening 8 and 12 days earlier than Fiskeby V. 
+Before the soybean breeding program in Fiskeby, several attempts were made with varieties mainly from Canada and Germany but didn't succeed, so in 1939-40, Sven A. Holmberg made a journey to sample collections in northern Japan and Sakhalin, Eastern Siberia. Locations were chosen, due to a summer climate similar to that of Sweden, and a long tradition of breeding soybeans. 
+consisted of crossings between early, hardy, and low-growing varieties from these parts, and higher-growing varieties, mainly from Germany (with its origin in Manchuria).
+There are primarily three characteristics that distinguish the soybean varieties from Holmberg’s breeding and are entirely essential to the adaptation to the Swedish climate: (1) Adaptation to long-day climate. (2) Tolerance against low summer temperatures. (3) Early ripening.
 
+Unfortunately, even with the new Swedish varieties, Soybean yield was too unpredictable and too low to become a crop grown in Sweden, at the time. 
+To this day, the soybean varieties from Fiskeby are well known among soybean growers worldwide, consisting of a source for early gestation and tolerance against low temperatures in breeding programs, wherever these characteristics could be incorporated. 
 
-In sweden 
 
 CCA
 (pp)
@@ -368,8 +375,7 @@ genes that are known or hypothesized to be involved in abiotic adaptation. [@hau
 agronomically it makes sense and it should be possible. Yeild ofcourse needs to be high enough. 
 
 
-
-**shortcomings**
+**what we dont know**
 
 In this case, the problem is to determine whether the 136 soybeans in the NORDGEN gene bank could be of use, given the goal of growing more protein and oil rich crops in Northern Europe. It is important to address this question because it could lead to the development of a breeding program for a future crop in the region.
 
