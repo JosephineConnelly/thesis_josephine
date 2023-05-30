@@ -1,0 +1,307 @@
+\documentclass[9pt,twocolumn,twoside,lineno]{gsajnl}
+% Use the documentclass option 'lineno' to view line numbers
+
+\usepackage{epstopdf}
+
+\articletype{inv} % article type
+% {inv} Investigation
+% {gs} Genomic Selection
+% {goi} Genetics of Immunity
+% {gos} Genetics of Sex
+% {mp} Multiparental Populations
+
+\runningtitle{GENETICS Journal Template on Overleaf} % For use in the footer
+\runningauthor{FirstAuthorLastname \textit{et al.}}
+
+\title{Working title SoyAdapt}
+
+\author[1,$\dagger$,$\ast$]{Josephine Estelle Ananda Connelly}
+\author[2]{Guillaume something Ranstein}
+\author[3]{Wolf something Eiserhardt}
+\author[4]{Torben Asp}
+\author[5]{Josephine Estelle Ananda Connelly}
+
+\affil[1]{AU}
+\affil[2]{AU}
+\affil[3]{AU, Kew}
+\affil[4]{AU}
+\affil[$\dagger$]{}
+
+
+\correspondingauthoraffiliation[$\ast$]{Corresponding author: AU, Connelly.}
+
+\begin{abstract}
+Soybean (Glycine max L. Merrill) is the worlds leading  oilseed crop used as a  primary source of vegetable oil for human consumption and in proteinmeal for animal feed.
+\end{abstract}
+
+\keywords{Soy; population genetics; Diversity; Selection; more keywords}
+
+\dates{\rec{01 09, 2023} \acc{01 09, 2023}}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{firststyle}
+%\slugnote
+%\firstpagefootnote
+\vspace{-13pt}% Only used for adjusting extra space in the left column of the first page
+
+
+\section{Introduction}
+
+\textit{Soybean is amazing}
+
+\textit{what we already know:}
+
+Several severe genetic bottlenecks occurred in soybean. Compared to the wild species, the genetic diversity was halved, resulting in a loss of 81\% of rare alleles (Hyten et al., 2006). Additionally, two major bottlenecks occurred during the development of North American modern cultivars, where only a few landraces were used. And as a result of intensive soybean breeding over the past 75 years. Elite cultivars have emerged, but they are derived from only about 19 landraces. Consequently, the North American breeding pools now retain only 72\% of genome diversity and have lost 79\% of rare alleles found in diverse landraces (Gizlice et al., 1996).
+
+
+\textit{soybean needs to be grown in the north}
+
+The Core collection used here is a subset of the from a large soybean germplasm collection, the  USDA genebank accessions, that are likely preadapted to cultivation in Central Europe, while simultaneously conserving a high level of genetic diversity (CCA paper). 
+
+\textit{the swedish soybeans (goals and scope)}
+
+
+\textit{mention approaches}
+
+\textit{In this study we}
+
+\section{Materials and methods}
+\label{sec:materials:methods}
+
+160 nordgen accessions of swedish origin. and 415 USDA seedbank accessions, where 4 didnt germinate in time for the sequencing.  
+
+The data what it is. where i got it.   And what was done with it first. 
+The  Swedish accessions and the Core collection selected for nordic regions were whole genome sequenced, 
+GATK: 
+The reads were aligned to the Williams 82 2a refrence genome ( (Schmutz et al. 2010).)
+MQ30 and biallelic sites and applied a MAF filter of 0.01 in order to remove rare variants from the data, and that reduced the number of SNPs from 17,648,123 to 10,000,122.
+
+From when i recived it:
+further filtering:
+A further three accessions were removed due to missing metadata. and a single accessions with missing data > 5\%.
+resluting in 156 nordgen accessions and 406 CCA accessions. 
+
+H1
+Q
+
+Method
+pca
+ibs
+realisation that 2 of the swedish were likely not a part of the swedish breeding program and excluded 
+see Supplimentary material for accession data. 
+Fst of the swedish vs the cca
+
+H2 
+Q
+
+Method
+
+H3
+Q 
+
+Method
+
+
+\subsection{Statistical analysis}
+
+Indicate what statistical analysis has been performed.
+
+
+\section{Results and Discussion}
+\subsection{population structure and genetic differentiation} 
+
+To better understand the population relationships of the accessions received from the Nordic gene bank and how they are related to eachother, and the rest of the soybean germplasm, they are compared to a core collection of 409 soybean from the USDA genebank selected from the soybean (Glycine max) germplasm for Central European breeding.  The Core collection used here is a subset of the from a large soybean germplasm collection, the  USDA genebank accessions, that are likely preadapted to cultivation in Central Europe, while simultaneously conserving a high level of genetic diversity (CCA paper). 
+
+To understand the population differentiation/ diversity, a Principal Component Analysis (PCA) and the genome-wide Identity By State (IBS) pairwise distance matrix were applied. The resulting PCA shows the Swedish accessions as a sub group (Figure \ref{fig:pca}) and the IBS (Figure  \ref{fig:dendo}) shows . 
+The genetic differentiation measured by FST 
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{plot_PCA_origin.pdf}
+\caption{This PCA shows the CCA in black, the SBPA in green and the thought to be founders in red.}%
+\label{fig:pca}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{rainbow.pdf}
+\caption{Hierarchical cluster dendrogram based on pairwise identity-by-state (IBS) values from WGS data for all samples. }%
+\label{fig:dendo}
+\end{figure}
+
+\subsection{Genetic diversity} 
+
+MAF?
+LD
+pi 
+theta
+
+
+\subsection{Genome wide selection signatures} 
+gws.
+
+
+
+\section{Discussion}
+
+The Swedish soybeans are are mainly a snapshot of a breeding program stopped around 1978 and all lines or recent crosses from this program were then set into the  
+
+
+
+\section{Additional guidelines}
+
+\subsection{Numbers} In the text, write out numbers nine or less except as part of a date, a fraction or decimal, a percentage, or a unit of measurement. Use Arabic numbers for those larger than nine, except as the first word of a sentence; however, try to avoid starting a sentence with such a number.
+
+\subsection{Units} Use abbreviations of the customary units of measurement only when they are preceded by a number: "3 min" but "several minutes". Write "percent" as one word, except when used with a number: "several percent" but "75\%." To indicate temperature in centigrade, use ° (for example, 37°); include a letter after the degree symbol only when some other scale is intended (for example, 45°K).
+
+\subsection{Nomenclature and italicization} Italicize names of organisms even when  when the species is not indicated.  Italicize the first three letters of the names of restriction enzyme cleavage sites, as in HindIII. Write the names of strains in roman except when incorporating specific genotypic designations. Italicize genotype names and symbols, including all components of alleles, but not when the name of a gene is the same as the name of an enzyme. Do not use "+" to indicate wild type. Carefully distinguish between genotype (italicized) and phenotype (not italicized) in both the writing and the symbolism.
+
+\subsection{Cross references}
+Use the \verb|\nameref| command with the \verb|\label| command to insert cross-references to section headings. For example, a \verb|\label| has been defined in the section \nameref{sec:materials:methods}.
+
+\section{In-text citations}
+
+Add citations using the \verb|\citep{}| command, for example \citep{neher2013genealogies} or for multiple citations, \citep{neher2013genealogies, rodelsperger2014characterization,Falush16}
+
+\section{Examples of article components}
+\label{sec:examples}
+
+The sections below show examples of different header levels, which you can use in the primary sections of the manuscript (Results, Discussion, etc.) to organize your content.
+
+\section{First level section header}
+
+Use this level to group two or more closely related headings in a long article.
+
+\subsection{Second level section header}
+
+Second level section text.
+
+\subsubsection{Third level section header:}
+
+Third level section text. These headings may be numbered, but only when the numbers must be cited in the text.
+
+\section{Figures and tables}
+
+Figures and Tables should be labelled and referenced in the standard way using the \verb|\label{}| and \verb|\ref{}| commands.
+
+\subsection{PCA figure}
+
+Figure \ref{fig:pca} shows an example figure.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{plot_PCA_origin.pdf}
+\caption{This PCA shows the CCA in black, the SBPA in green and the thought to be founders in red.}%
+\label{fig:pca}
+\end{figure}
+
+%\begin{figure}[htbp]
+%\centering
+%\includegraphics[width=\linewidth]{example-figure}
+%%\caption{Example movie (the figure file above is used as a placeholder for this example). \textit{GENETICS} supports video and movie files that can be linked from any portion of the article - including the abstract. Acceptable formats include .asf, avi, .wav, and all types of Windows Media files.
+%%}%
+%%\label{video:spectrum}
+%\end{figure}
+
+Figures and Tables should be labelled and referenced in the standard way using the \verb|\label{}| and \verb|\ref{}| commands.
+
+\subsection{Dendogram figure}
+
+Figure \ref{fig:dendo} shows an example figure.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{rainbow.pdf}
+\caption{Hierarchical cluster dendrogram based on pairwise identity-by-state (IBS) values from SNP data for all samples. describe dendogram}%
+\label{fig:pca}
+\end{figure}
+
+%\begin{figure}[htbp]
+%\centering
+%\includegraphics[width=\linewidth]{example-figure}
+%%\caption{Example movie (the figure file above is used as a placeholder for this example). \textit{GENETICS} supports video and movie files that can be linked from any portion of the article - including the abstract. Acceptable formats include .asf, avi, .wav, and all types of Windows Media files.
+%%}%
+%%\label{video:spectrum}
+%\end{figure}
+
+Figures and Tables should be labelled and referenced in the standard way using the \verb|\label{}| and \verb|\ref{}| commands.
+
+\subsection{Sample figure}
+
+Figure \ref{fig:spectrum} shows an example figure.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{example-figure}
+\caption{Example figure from \url{10.1534/genetics.114.173807}. Please include your figures in the manuscript for the review process. You can upload figures to Overleaf via the Project menu. Images of photographs or paintings can be provided as raster images. Common examples of raster images are .tif/.tiff, .raw, .gif, and .bmp file types. The resolution of raster files is measured by the number of dots or pixels in a given area, referred to as “dpi” or “ppi.”
+\begin{itemize}
+\item  minimum resolution required for printed images or pictures: 350dpi
+\item  minimum resolution for printed line art: 600dpi (complex or finely drawn line art should be 1200dpi)
+\item minimum resolution for electronic images (i.e., for on-screen viewing): 72dpi
+\protect\end{itemize}
+Images of maps, charts, graphs, and diagrams are best rendered digitally as geometric forms called vector graphics. Common file types are .eps, .ai, and .pdf. Vector images use mathematical relationships between points and the lines connecting them to describe an image. These file types do not use pixels; therefore resolution does not apply to vector images.
+Label multiple figure parts with A, B, etc. in bolded. Legends should start with a brief title and should be a self-contained description of the content of the figure that provides enough detail to fully understand the data presented. All conventional symbols used to indicate figure data points are available for typesetting; unconventional symbols should not be used. Italicize all mathematical variables (both in the figure legend and figure) , genotypes, and additional symbols that are normally italicized.}%
+\label{fig:spectrum}
+\end{figure}
+
+%\begin{figure}[htbp]
+%\centering
+%\includegraphics[width=\linewidth]{example-figure}
+%%\caption{Example movie (the figure file above is used as a placeholder for this example). \textit{GENETICS} supports video and movie files that can be linked from any portion of the article - including the abstract. Acceptable formats include .asf, avi, .wav, and all types of Windows Media files.
+%%}%
+%%\label{video:spectrum}
+%\end{figure}
+
+\subsection{Sample table}
+
+Table \ref{tab:shape-functions} shows an example table. Avoid shading, color type, line drawings, graphics, or other illustrations within tables. Use tables for data only; present drawings, graphics, and illustrations as separate figures. Histograms should not be used to present data that can be captured easily in text or small tables, as they take up much more space.
+
+Tables numbers are given in Arabic numerals. Tables should not be numbered 1A, 1B, etc., but if necessary, interior parts of the table can be labeled A, B, etc. for easy reference in the text.
+
+\begin{table*}[p]
+\centering
+\caption{Students and their grades}
+\begin{tableminipage}{\textwidth}
+\begin{tabularx}{\textwidth}{@{}XXXX@{}}
+\hline
+{\bf Student} & {\bf Grade}\footnote{This is an example of a footnote in a table. Lowercase, superscript italic letters (a, b, c, etc.) are used by default. You can also use *, **, and *** to indicate conventional levels of statistical significance, explained below the table.} & {\bf Rank} & {\bf Notes} \\
+\hline
+Alice & 82\% & 1 & Performed very well.\\
+Bob & 65\% & 3 & Not up to his usual standard.\\
+Charlie & 73\% & 2 & A good attempt.\\
+\hline
+\end{tabularx}
+  \label{tab:shape-functions}
+\end{tableminipage}
+\end{table*}
+
+\section{Sample equation}
+
+Let $X_1, X_2, \ldots, X_n$ be a sequence of independent and identically distributed random variables with $\text{E}[X_i] = \mu$ and $\text{Var}[X_i] = \sigma^2 < \infty$, and let
+\begin{equation}
+S_n = \frac{X_1 + X_2 + \cdots + X_n}{n}
+      = \frac{1}{n}\sum_{i}^{n} X_i
+\label{eq:refname1}
+\end{equation}
+denote their mean. Then as $n$ approaches infinity, the random variables $\sqrt{n}(S_n - \mu)$ converge in distribution to a normal $\mathcal{N}(0, \sigma^2)$.
+
+\section{Data availability}
+
+The inclusion of a Data Availability Statement is a requirement for articles published in GENETICS. Data Availability Statements provide a standardized format for readers to understand the availability of data underlying the research results described in the article. The statement may refer to original data generated in the course of the study or to third-party data analyzed in the article. The statement should describe and provide means of access, where possible, by linking to the data or providing the required unique identifier.
+
+For example: Strains and plasmids are available upon request. File S1 contains detailed descriptions of all supplemental files. File S2 contains SNP ID numbers and locations. File S3 contains genotypes for each individual. Sequence data are available at GenBank and the accession numbers are listed in File S3. Gene expression data are available at GEO with the accession number: GDS1234. Code used to generate the simulated data can be found at \url{https://figshare.org/record/123456}.
+
+\section{Acknowledgments}
+Acknowledgments should be included here.
+
+\section{Funding}
+Funding, including Funder Names and Grant numbers should be included here.
+
+\section{Conflicts of interest}
+Please either state that you have no conflicts of interest, or list relevant information here.  This would cover any situations that might raise any questions of bias in your work and in your article’s conclusions, implications, or opinions. Please see \url{https://academic.oup.com/journals/pages/authors/authors_faqs/conflicts_of_interest}.
+
+\bibliography{example-bibliography}
+
+\end{document} 
